@@ -1,0 +1,6 @@
+/lib/config.ini.php
+/vendor/*
+/error_log
+/cache
+.vscode
+/storage/*
